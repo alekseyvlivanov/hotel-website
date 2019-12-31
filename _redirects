@@ -1,0 +1,6 @@
+# Netlify redirects
+
+https://practical-galileo-b769c4.netlify.com/* https://hotelbt.chessiah.xyz/:splat 301!
+http://practical-galileo-b769c4.netlify.com/* https://hotelbt.chessiah.xyz/:splat 301!
+
+http://hotelbt.chessiah.xyz/* https://hotelbt.chessiah.xyz/:splat 301!
