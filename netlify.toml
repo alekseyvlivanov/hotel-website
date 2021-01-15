@@ -1,0 +1,17 @@
+[[redirects]]
+  from = "https://hotel-website-aleksey-vl-ivanov.netlify.app/*"
+  to = "https://hotel-website.aleksey-vl-ivanov.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://hotel-website-aleksey-vl-ivanov.netlify.app/*"
+  to = "https://hotel-website.aleksey-vl-ivanov.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://hotel-website.aleksey-vl-ivanov.com/*"
+  to = "https://hotel-website.aleksey-vl-ivanov.com/:splat"
+  status = 301
+  force = true

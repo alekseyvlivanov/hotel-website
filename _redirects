@@ -1,6 +1,0 @@
-# Netlify redirects
-
-https://hotel-website-chessiah.netlify.app/* https://hotel-website.chessiah.com/:splat 301!
-http://hotel-website-chessiah.netlify.app/* https://hotel-website.chessiah.com/:splat 301!
-
-http://hotel-website.chessiah.com/* https://hotel-website.chessiah.com/:splat 301!
